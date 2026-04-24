@@ -87,15 +87,16 @@
 ---
 
 ### 📫 Как со мной связаться:
-*   **Telegram:** @[твой_ник]
-*   **Email:** [твой_email]
-*   **Резюме на HH:** [Ссылка на резюме]
+*   **Telegram:** <a href="https://t.me/Dima_Stronger">@Dima_Stronger</a>
+*   **Email:** <a href="mailto:dimon07dimon07@mail.ru">dimon07dimon07@mail.ru</a></h6><a id="user-content-e-mail-dimon07dimon07@mail.ru" class="anchor" aria-label="Permalink: e-mail: dimon07dimon07@mail.ru" href="#e-mail-dimon07dimon07@mail.ru"></a></div>
+*   **Резюме на HH:** [Скоро]
 
 ---
 
 ### 📊 Статистика профиля
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_ЛОГИН_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+ 
+ [![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dimon07dimon07zero07-prog)](https://github.com/dimon07dimon07zero07-prog)
 </p>
 
