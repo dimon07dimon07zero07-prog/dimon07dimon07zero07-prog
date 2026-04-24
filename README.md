@@ -1,5 +1,5 @@
 ### 📊 Статистика профиля
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[https://github.com/dimon07dimon07zero07-prog]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[dimon07dimon07zero07-prog]&show_icons=true&theme=radical)
 
 <h1 align="center">
 
