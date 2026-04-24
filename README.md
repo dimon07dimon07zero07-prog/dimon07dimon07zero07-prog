@@ -82,7 +82,7 @@
 
 ### 🎓 Образование и сертификаты
 *   **QA Studio** — Курс «Инженер по тестированию» (2025–2026).
-<img width="600" height="800" alt="0efc9c97a9b" src="https://github.com/user-attachments/assets/76dbd7fc-0c6b-4c8b-b59f-aa38137b252c" />
+<img width="250" height="400" alt="0efc9c97a9b" src="https://github.com/user-attachments/assets/76dbd7fc-0c6b-4c8b-b59f-aa38137b252c" />
 
 ---
 
