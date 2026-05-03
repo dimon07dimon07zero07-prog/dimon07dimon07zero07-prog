@@ -89,8 +89,7 @@
 ### 📫 Как со мной связаться:
 *   **Telegram:** <a href="https://t.me/Dima_Stronger">@Dima_Stronger</a>
 *   **Email:** <a href="mailto:dimon07dimon07@mail.ru">dimon07dimon07@mail.ru</a></h6><a id="user-content-e-mail-dimon07dimon07@mail.ru" class="anchor" aria-label="Permalink: e-mail: dimon07dimon07@mail.ru" href="#e-mail-dimon07dimon07@mail.ru"></a></div>
-*   **Резюме на HH:** [Скоро]
-
+*   **Резюме на HH: <a href="https://lugansk.hh.ru/resume/e20b7ab9ff0faa0d4a0039ed1f796d37446354">Ссылкаr</a>
 ---
 
 ### 📊 Статистика профиля
